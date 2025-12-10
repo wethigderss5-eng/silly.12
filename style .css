@@ -1,0 +1,21 @@
+{
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+    
+}
+
+nav.navbar {
+  background-color: lightblue !important;
+}
+
+.nav-link{
+  font-size: 18px !important;
+  color: black !important;
+}
+.nav-link:hover {
+  color: yellow !important;
+}
+.navbar-brand img {
+  width: 50px;
+}
